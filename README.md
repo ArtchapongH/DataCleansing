@@ -22,3 +22,4 @@ This folder included projects those demostrate how I use Python to explore, mani
     - Split 'OrderDate' column to get only year and month values and assign them to 'Year' and 'Month' columns
     - Split 'CustomerName' column to 'FirstName' and 'LastName' columns
     - Drop unused columns and reorder columns
+    - Export transformed dataset as csv format to target directory
